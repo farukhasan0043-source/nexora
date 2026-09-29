@@ -1,0 +1,6 @@
+{
+  "name": "Nexora - Personal Content Sharing Platform",
+  "description": "A modern, premium personal content-sharing platform for publishing text, high-res photography, cinematic videos, website links, and social embeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
